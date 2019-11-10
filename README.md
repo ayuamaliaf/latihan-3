@@ -1,1 +1,1 @@
-#'/d/PELITA BANGSA/TUGAS B.PEMOGRAMAN/bahasa pempgraman 3/latihan 3.py' '/d/PELITA BANGSA/TUGAS B.PEMOGRAMAN/bahasa pempgraman 3/latihan 1.py' '/d/PELITA BANGSA/TUGAS B.PEMOGRAMAN/bahasa pempgraman 3/latihan 2.py'
+latihan 3
